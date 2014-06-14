@@ -29,5 +29,12 @@ x*y^2-z+z*x^2-y+y*z^2-x
 (x^2 + y^2 + z^2<17)
 
 
+x^2*y*z+x*y^2+y^3+y^3*z-x^2*z^2
 
+#Crixxi no funciona bien la resolucion
+(y^2+z^2-1)^2 +(x^2+y^2-1)^3
+
+
+#Sattel Objeto-4
+x^2+y^2-z^3*(1-z)
 
